@@ -1,13 +1,16 @@
-<svg viewBox="0 0 16 16" width="16" height="16" fill="#fff" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <rect width="100%" height="100%" fill="black"/>
-  <!-- i -->
- <path d="m3 8h1v2h-1z"/>
- <path d="m3 6h1v1h-1z"/>
-  <!-- n -->
- <path d="m5 7h2v1h1v2h-1v-2h-1v2h-1z"/>
-  <!-- i -->
- <path d="m9 8h1v2h-1z"/>
- <path d="m9 6h1v1h-1z"/>
-  <!-- t -->
- <path d="m11 6v4h2v-1h-1v-1h1v-1h-1v-1z"/>
+<svg 
+  xmlns="http://www.w3.org/2000/svg" 
+  viewBox="0 0 16 16" 
+  role="img" 
+  aria-label="init"
+>
+  <rect width="16" height="16" fill="#000000"/>
+  <path fill="#ffffff" d="
+    M3 8h1v2H3z
+    M3 6h1v1H3z
+    M5 7h2v1h1v2H7V8H6v2H5z
+    M9 8h1v2H9z
+    M9 6h1v1H9z
+    M11 6v4h2V9h-1V8h1V7h-1V6z
+  "/>
 </svg>
